@@ -5,6 +5,7 @@ from pathlib import Path
 TARGET_FOLDER = "../PQClean-Saber/crypto_kem/"
 
 params = [
+    {'name': 'lightsaber', 'def' : ['Saber_type=1']},
     {'name': 'saber', 'def' : ['Saber_type=2']},
 ] 
 
