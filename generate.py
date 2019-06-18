@@ -7,6 +7,7 @@ TARGET_FOLDER = "../PQClean-Saber/crypto_kem/"
 params = [
     {'name': 'lightsaber', 'def' : ['Saber_type=1']},
     {'name': 'saber', 'def' : ['Saber_type=2']},
+    {'name': 'firesaber', 'def' : ['Saber_type=3']},
 ] 
 
 for param in params:
